@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    font-size: 30px;
+}
+
+th,td {
+    border: 2px solid salmon(229, 43, 74);
+    text-align: center;
+}
+
+th {
+    background-color: bisque;
+}
+
+form input {
+    background-color: bisque;
+}
+
+.tabel {
+    display: flex;
+    justify-content: center;
+}
+
+.formulir {
+    display: flex;
+    justify-content: center;
+}
